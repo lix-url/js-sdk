@@ -9,13 +9,13 @@ Official JavaScript SDK for the [Lix.li](https://lix.li) URL shortening and link
 ## Installation
 
 ```bash
-npm install lix-url-js-sdk
+npm install @lix-url/sdk
 ```
 
 ## Quick Start
 
 ```js
-const { Client } = require('lix-url-js-sdk');
+const { Client } = require('@lix-url/sdk');
 
 const client = new Client('your_api_key');
 
@@ -184,7 +184,7 @@ const {
   NotFoundException,
   RateLimitException,
   ServerException,
-} = require('lix-url-js-sdk');
+} = require('@lix-url/sdk');
 
 try {
   const result = await client.links().create('https://example.com');
@@ -212,7 +212,7 @@ try {
 Use the `MetaEnum` constants when building meta objects:
 
 ```js
-const { MetaEnum } = require('lix-url-js-sdk');
+const { MetaEnum } = require('@lix-url/sdk');
 
 const meta = {
   [MetaEnum.META_TITLE]: 'Page Title',
