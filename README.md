@@ -4,7 +4,7 @@ Official JavaScript SDK for the [Lix.li](https://lix.li) URL shortening and link
 
 ## Requirements
 
-- Node.js 18+
+- Node.js 14+
 
 ## Installation
 
