@@ -1,0 +1,32 @@
+{
+  "name": "lix-url-js-sdk",
+  "version": "0.1.0",
+  "description": "Official JavaScript SDK for the Lix.li API.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "lix.li",
+    "url-shortener",
+    "links-management",
+    "analytics",
+    "api",
+    "sdk"
+  ],
+  "license": "MIT",
+  "homepage": "https://lix.li",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lix-url/js-sdk"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
