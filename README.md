@@ -250,3 +250,8 @@ src/
     index.js             — typed exception classes
 tests/                   — Jest test suite
 ```
+
+## Documentation
+
+- API Documentation: https://lix.li/api
+- OpenAPI Specification: https://github.com/lix-url/openapi
