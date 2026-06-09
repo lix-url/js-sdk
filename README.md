@@ -253,5 +253,22 @@ tests/                   — Jest test suite
 
 ## Documentation
 
-- API Documentation: https://lix.li/api
-- OpenAPI Specification: https://github.com/lix-url/openapi
+* API Documentation: https://lix.li/api
+* OpenAPI Specification: https://github.com/lix-url/openapi
+
+## Other SDKs
+
+- PHP SDK: https://github.com/lix-url/php-sdk
+- Go SDK: https://github.com/lix-url/go-sdk
+- Python SDK: https://github.com/lix-url/python-sdk
+
+
+## Support
+
+Need help with the API or SDK?
+
+- Support Center: https://lix.li/support
+
+## License
+
+MIT
